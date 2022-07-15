@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FacuRS
 - 👀 I’m interested in technology, science and fantasy for a change.
 - 🌱 I’m currently learning web development 
-- 💞️ I’m seek to collaborate in projects where I can add value and receive something positive in return
+- 💞️ I’m seek to collaborate in projects where I can add value and receive something positive in return<br/>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 📫 Reach me in facundoromerososa@gmail.com
 
