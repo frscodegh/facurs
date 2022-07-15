@@ -2,7 +2,6 @@
 - 👀 I’m interested in technology, science and fantasy for a change.
 - 🌱 I’m currently learning web development 
 - 💞️ I’m seek to collaborate in projects where I can add value and receive something positive in return<br/>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 📫 Reach me in facundoromerososa@gmail.com
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
